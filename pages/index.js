@@ -1,12 +1,4 @@
-import Head from "next/head";
-import Header from "@components/Header";
-import Footer from "@components/Footer";
-import FeedbackForm from "@components/FeedbackForm";
-import JokeBlock from "@components/JokeBlock";
 
-export default function Home() {
-  return (
-    <div className="container">
       <Head>
         <title>Best Family Locator App - Amigo360</title>
         <link rel="icon" href="/favicon.ico" />
@@ -31,10 +23,7 @@ When choosing an Amigo360 Upgrade plan, your family can access extra features li
 
 You can use our Amigo360 app to track Friends & Family Members. This was the <a href="https://www.districtsinfo.com/2022/07/5-best-family-tracker-apps-for-android-ios.html">Best Friends Tracking App </a>in Android & IOS
         </p>
-       
-        <JokeBlock />
-      </main>
-      <Footer />
-    </div>
-  );
-}
+
+    
+
+
