@@ -1,13 +1,11 @@
 
       <Head>
         <title>Best Family Locator App - Amigo360</title>
-        <link rel="icon" href="/favicon.ico" />
+
       </Head>
 
-      <main>
-        <Header title="Next.js Toolbox" />
-        <hr />
-        <p className="description">
+
+        <p>
         Are you worried about your family and friends? Are you looking for the best Friends & <a href="https://play.google.com/store/apps/details?id=com.amigo360.family.circle.friends.tracker">family tracking app</a>? Here is the end of your search for the family & Friends locator GPS tracker app. Using this app to find family & friends, you can keep track of everyone you know.
 
 
