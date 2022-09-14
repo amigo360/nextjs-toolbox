@@ -31,7 +31,7 @@ When choosing an Amigo360 Upgrade plan, your family can access extra features li
 
 You can use our Amigo360 app to track Friends & Family Members. This was the <a href="https://www.districtsinfo.com/2022/07/5-best-family-tracker-apps-for-android-ios.html">Best Friends Tracking App </a>in Android & IOS
         </p>
-        <FeedbackForm />
+       
         <JokeBlock />
       </main>
       <Footer />
